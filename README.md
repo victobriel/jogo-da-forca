@@ -1,1 +1,1 @@
-See this project here: https://victobriel.github.io/Jogo-da-Forca/
+See this project here: https://victobriel.github.io/jogo-da-forca/
